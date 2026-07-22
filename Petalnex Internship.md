@@ -29,7 +29,7 @@ By the end of this course I should be able to:
 
 # 📂 Assignments
 
-![[Pasted image 20260722161210.png]]
+![[Screenshot From 2026-07-22 16-12-01.png]]
 
 ![[Automation-Opportunities..pdf]]
 
