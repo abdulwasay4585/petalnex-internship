@@ -23,21 +23,21 @@ tags:
 # 🎯 Learning Objectives
 
 By the end of this course I should be able to:
-![[Pasted image 20260722155157.png|697]]
+![Learning Objectives Screenshot](Screenshot%20From%202026-07-22%2016-03-23.png)
     
 ---
 
 # 📂 Assignments
 
-![[Screenshot From 2026-07-22 16-12-01.png]]
+![Assignments Screenshot](Screenshot%20From%202026-07-22%2016-12-01.png)
 
-![[Automation-Opportunities..pdf]]
+[Automation Opportunities PDF](Automation-Opportunities..pdf)
 
 ## 1. Accounts Payable Invoice Processing
 
 - **Process Name:** Accounts Payable Invoice Processing and Matching
     
-- **Current Manual Process:** Accounts payable staff receive vendor invoices via email attachments or postal mail. They manually type invoice details into accounting software, visually cross-reference the invoice against purchase orders and receiving logs, email department managers for approval, and schedule payment dates.
+- **Current Manual Process:** Accounts payable staff receive vendor invoices via email attachments or postal mail. They manually type invoice details into accounting software, visually cross-reference[...]
     
 - **Problem:** Manual data entry causes typos and duplicate payments. Approval requests sit unread in email inboxes, leading to missed early payment discounts, late penalties, and vendor friction.
     
@@ -72,9 +72,9 @@ By the end of this course I should be able to:
 
 - **Process Name:** Employee Onboarding and Account Provisioning
     
-- **Current Manual Process:** HR collects new hire documents via email, enters personal information into the HR Information System (HRIS), and emails IT a checklist for needed equipment and software. IT personnel manually create user accounts across multiple software tools.
+- **Current Manual Process:** HR collects new hire documents via email, enters personal information into the HR Information System (HRIS), and emails IT a checklist for needed equipment and software. [...]
     
-- **Problem:** Manual setups leave new employees waiting days for software access, reducing first week productivity. Human oversight can also leave security gaps by assigning incorrect permission levels.
+- **Problem:** Manual setups leave new employees waiting days for software access, reducing first week productivity. Human oversight can also leave security gaps by assigning incorrect permission leve[...]
     
 - **Trigger:** Candidate accepts an offer letter in the applicant tracking system.
     
@@ -107,7 +107,7 @@ By the end of this course I should be able to:
 
 - **Process Name:** Employee Expense Audit and Reimbursement
     
-- **Current Manual Process:** Employees fill out spreadsheet templates, attach receipt photos, and email them to managers. Managers review receipts item by item, approve via email, and forward to finance. Finance audits receipts against policy rules before initiating bank transfers.
+- **Current Manual Process:** Employees fill out spreadsheet templates, attach receipt photos, and email them to managers. Managers review receipts item by item, approve via email, and forward to fina[...]
     
 - **Problem:** Reviewing receipts line by line is slow and prone to oversight. Employees experience delayed reimbursements, and policy violations go undetected due to manual review fatigue.
     
@@ -144,7 +144,7 @@ By the end of this course I should be able to:
 
 - **Process Name:** Customer Support Ticket Triage and Assignment
     
-- **Current Manual Process:** Support managers monitor a master inbox or unassigned queue, read incoming customer messages, evaluate urgency and topic, and manually assign each ticket to an available agent.
+- **Current Manual Process:** Support managers monitor a master inbox or unassigned queue, read incoming customer messages, evaluate urgency and topic, and manually assign each ticket to an available [...]
     
 - **Problem:** Ticket assignment slows down during high volume periods or off-peak hours. Misrouted tickets get passed between agents repeatedly, increasing response times and frustrating customers.
     
@@ -179,9 +179,9 @@ By the end of this course I should be able to:
 
 - **Process Name:** Vendor Purchase Order and Contract Renewal Management
     
-- **Current Manual Process:** Procurement maintains contract expiration dates in static spreadsheets. Procurement officers manually email business owners when dates approach, circulating renewal terms and purchase orders over email for signatures.
+- **Current Manual Process:** Procurement maintains contract expiration dates in static spreadsheets. Procurement officers manually email business owners when dates approach, circulating renewal terms[...]
     
-- **Problem:** Static tracking leads to missed cancellation windows, causing unintentional auto-renewals for unused services. Unstructured email approvals create security risks and leave poor audit trails.
+- **Problem:** Static tracking leads to missed cancellation windows, causing unintentional auto-renewals for unused services. Unstructured email approvals create security risks and leave poor audit tr[...]
     
 - **Trigger:** System alert triggered 90, 60, or 30 days prior to contract expiration date, or a new purchase order request submitted by a user.
     
@@ -214,7 +214,7 @@ By the end of this course I should be able to:
 # 💻 Checklist
 
 - [ ]All Accounts created according to the appendix B in the docuement
-		![[Pasted image 20260722160326.png]]
+		![Checklist Screenshot](Screenshot%20From%202026-07-22%2016-03-23.png)
 	
 - [ ]
 
