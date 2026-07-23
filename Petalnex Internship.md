@@ -1,45 +1,27 @@
 
----
-
-created: 2026-07-22 15:50  
-updated: 2026-07-23 00:00  
-course_code:  
-semester:  
-credits:  
-instructor:  
-department:  
-status: Ongoing  
-tags:
-
-- course  
-    aliases: []
-    
-
----
-
 # 📘 Day 1
 
 ---
 
 # 🎯 Learning Objectives
 
-By the end of this course I should be able to:
-![Learning Objectives Screenshot](Screenshot%20From%202026-07-22%2016-03-23.png)
+By the end of this day I should be able to:
+![[Pasted image 20260722155157.png|697]]
     
 ---
 
 # 📂 Assignments
 
-![Assignments Screenshot](Screenshot%20From%202026-07-22%2016-12-01.png)
+![[Pasted image 20260722161210.png]]
 
-[Automation Opportunities PDF](Automation-Opportunities..pdf)
-  
+![[Automation-Opportunities..pdf]]
+
 ---
 
 # 💻 Checklist
 
-- [ ] All Accounts created according to the appendix B in the document
-		![Checklist](Pasted%20image%2020260722160326.png)
+- [ ]All Accounts created according to the appendix B in the document
+		![[Pasted image 20260722160326.png]]
 	
 - [ ]
 
@@ -96,7 +78,6 @@ Answer
 | ---------- | --------------------------------------------------- |
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
 |            |                                                     |
-|            |                                                     |
 
 
 ---
@@ -111,19 +92,37 @@ Answer
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![objective](Pasted%20image%2020260723092542.png)
+![](Pasted%20image%2020260723092542.png)
 
 ---
 
 # 📂 Assignments
 
+![](Pasted%20image%2020260723164748.png)
 
+![](Daily%20Automated%20Reminder.json)
+
+### Schedule Trigger
+
+The Schedule Trigger starts the workflow automatically at the configured weekday and time. It acts as the entry point and eliminates the need to run the workflow manually.
+
+### Set
+
+The Set node creates variables such as the reminder message and subject. It organizes the data so later nodes can reuse it easily.
+
+### Telegram Node
+
+The Telegram node connects to the Telegram Bot API and sends the reminder message directly to the specified chat ID.
+
+### Gmail Node
+
+The Gmail node sends an email reminder to the specified recipient using the subject and message created in the Set node.
 
 ---
 
 # 💻 Checklist
 
-- [ ]![Checklist](Pasted%20image%2020260723093321.png)
+- [ ]![](Pasted%20image%2020260723093321.png)
 	
 - [ ]
 
@@ -133,7 +132,7 @@ By the end of this day I should be able to:
 
 | Title                                      | Status                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
-| n8n – Build your first workflow (tutorial) | [https://n8n.io/](https://docs.n8n.io/try-it-out/)   |
+| n8n – Build your first workflow (tutorial) | https://docs.n8n.io/try-it-out/                      |
 | n8n Docs – Trigger nodes                   | https://docs.n8n.io/integrations/builtin/core-nodes/ |
 |                                            |                                                      |
 
@@ -168,11 +167,11 @@ By the end of this day I should be able to:
 # 📋 Revision Checklist
 
 - Date:  23 Jul 2026 Thu
-- Today I learned: 
-- Today I built / practiced: 
-- Technologies / nodes used: Github, Obsidian and  n8n
-- Problem(s) faced: 
-- How I solved them:
+- Today I learned: About nodes, triggers, and telegram api.
+- Today I built / practiced: Daily Internship Reminder
+- Technologies / nodes used: Github, Obsidian,  n8n, and Telegram.
+- Problem(s) faced: -
+- How I solved them: -
 - Task status: Completed
 - GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
 - Plan for next day:  Tasks and ongoing learning
@@ -195,5 +194,6 @@ By the end of this day I should be able to:
 | Date       | Activity                                            |
 | ---------- | --------------------------------------------------- |
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
-| 2026-07-23 |                                                     |
+| 2026-07-23 | Created Daily Remainder.                            |
 |            |                                                     |
+
