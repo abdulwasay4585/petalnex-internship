@@ -277,21 +277,15 @@ Answer
 
 # 📋 Revision Checklist
 
--  Finished syllabus
-    
--  Reviewed lecture notes
-    
--  Solved assignments
-    
--  Completed labs
-    
--  Practiced coding
-    
--  Reviewed formulas
-    
--  Attempted past papers
-    
--  Created flashcards
+Date:  22 Jul 2026 Wed
+Today I learned:  What is Automation, and traditional automation vs AI automation
+Today I built / practiced: Setup accounts for tools and github repo.
+Technologies / nodes used: Github, Obsidian and  n8n
+Problem(s) faced: n8n login issue
+How I solved them: waited for 1mins for otp
+Task status: Completed
+GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+Plan for next day: Day 2 Tasks and ongoing learning
     
 
 ---
