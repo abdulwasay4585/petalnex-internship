@@ -109,19 +109,36 @@ Answer
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![objective](Pasted%20image%2020260723092542.png)
+	![objective](Pasted%20image%2020260723092542.png)
 
 ---
 
 # 📂 Assignments
 
+![editorscreenshot](Pasted%20image%2020260723093321.png)
 
+
+### Schedule Trigger
+
+The Schedule Trigger starts the workflow automatically at the configured weekday and time. It acts as the entry point and eliminates the need to run the workflow manually.
+
+### Set
+
+The Set node creates variables such as the reminder message and subject. It organizes the data so later nodes can reuse it easily.
+
+### Telegram Node
+
+The Telegram node connects to the Telegram Bot API and sends the reminder message directly to the specified chat ID.
+
+### Gmail Node
+
+The Gmail node sends an email reminder to the specified recipient using the subject and message created in the Set node.
 
 ---
 
 # 💻 Checklist
 
-- [ ]![Checklist](Pasted%20image%2020260723093321.png)
+- [[ ]]	
 	
 - [ ]
 
@@ -166,11 +183,11 @@ By the end of this day I should be able to:
 # 📋 Revision Checklist
 
 - Date:  23 Jul 2026 Thu
-- Today I learned: 
-- Today I built / practiced: 
-- Technologies / nodes used: Github, Obsidian and  n8n
-- Problem(s) faced: 
-- How I solved them:
+- Today I learned: About nodes, triggers, and telegram api.
+- Today I built / practiced: Daily Internship Reminder
+- Technologies / nodes used: Github, Obsidian,  n8n, and Telegram.
+- Problem(s) faced: -
+- How I solved them: -
 - Task status: Completed
 - GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
 - Plan for next day:  Tasks and ongoing learning
@@ -193,5 +210,5 @@ By the end of this day I should be able to:
 | Date       | Activity                                            |
 | ---------- | --------------------------------------------------- |
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
-| 2026-07-23 |                                                     |
+| 2026-07-23 | Created Daily Remainder.                            |
 |            |                                                     |
