@@ -138,7 +138,7 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 
 # 💻 Checklist
 
-- [[ ]]	
+- [[ ]]	![checklist](Pasted%20image%2020260723093321.png)
 	
 - [ ]
 
@@ -212,3 +212,107 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
 | 2026-07-23 | Created Daily Remainder.                            |
 |            |                                                     |
+
+
+
+---
+---
+---
+
+
+
+# 📘 Day 3
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![objective](Pasted%20image%2020260724092936.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Pasted%20image%2020260725001257.png)
+
+
+![a2](student%20emploee%20records%20clasification.json)
+
+---
+
+# 💻 Checklist
+
+- ![checklist](Pasted%20image%2020260724093014.png)
+- [ ]
+
+---
+
+# 📚 Resources
+
+| Title                   | Status                                                                 |
+| ----------------------- | ---------------------------------------------------------------------- |
+| MDN – Working with JSON | https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON |
+| n8n Docs – Expressions  | https://docs.n8n.io/code/expressions/                                  |
+|                         |                                                                        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  24 Jul 2026 Fri
+- Today I learned:  about json.
+- Today I built / practiced: Created student/employee records.
+- Technologies / nodes used: Github, Obsidian,  n8n, and JSON.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
