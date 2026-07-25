@@ -316,3 +316,117 @@ By the end of this day I should be able to:
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
 | 2026-07-23 | Created Daily Remainder.                            |
 | 2026-07-24 | Created student/employee records.                   |
+
+
+
+
+---
+---
+---
+
+
+# 📘 Day 4
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![objectives](Pasted%20image%2020260725090456.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Pasted%20image%2020260725171546.png)
+
+
+![a2](Routing%20workflow.json)
+
+
+
+
+---
+
+# 💻 Checklist
+
+-  ![checklist](Pasted%20image%2020260725090539.png)
+- 
+
+---
+
+# 📚 Resources
+
+| Title                                           | Status                          |
+| ----------------------------------------------- | ------------------------------- |
+| n8n Docs – Flow logic (IF, Switch, Merge, Loop) | https://docs.n8n.io/flow-logic/ |
+|                                                 |                                 |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  25 Jul 2026 Sat
+- Today I learned: loops, if-else, and flow logic in n8n.
+- Today I built / practiced: Created small routing workflow
+- Technologies / nodes used: Github, Obsidian,  n8n, and JSON.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow                      |
+|            |                                                     |
+
+
+
+
+
+
