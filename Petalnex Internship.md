@@ -14,7 +14,6 @@ tags:
     aliases: []
     
 
----
 
 # 📘 Day 1
 
@@ -22,23 +21,23 @@ tags:
 
 # 🎯 Learning Objectives
 
-By the end of this course I should be able to:
-![Learning Objectives Screenshot](Screenshot%20From%202026-07-22%2016-03-23.png)
+By the end of this day I should be able to:
+![[Pasted image 20260722155157.png|697]]
     
 ---
 
 # 📂 Assignments
 
-![Assignments Screenshot](Screenshot%20From%202026-07-22%2016-12-01.png)
+![[Pasted image 20260722161210.png]]
 
-[Automation Opportunities PDF](Automation-Opportunities..pdf)
-  
+![[Automation-Opportunities..pdf]]
+
 ---
 
 # 💻 Checklist
 
-- [ ] All Accounts created according to the appendix B in the document
-		![Checklist](Pasted%20image%2020260722160326.png)
+- [ ]All Accounts created according to the appendix B in the document
+		![[Pasted image 20260722160326.png]]
 	
 - [ ]
 
@@ -79,16 +78,6 @@ Answer
 
 ---
 
-# 🔗 Related Notes
-
-- [ ]
-    
-- [ ]
-    
-- [ ]
-    
----
-
 # 📅 Study Log
 
 | Date       | Activity                                            |
@@ -109,14 +98,15 @@ Answer
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-	![objective](Pasted%20image%2020260723092542.png)
+![obj](Pasted%20image%2020260723092542.png)
 
 ---
 
 # 📂 Assignments
 
-![editorscreenshot](Pasted%20image%2020260723093321.png)
+![a1](Pasted%20image%2020260723164748.png)
 
+![a2](Daily%20Automated%20Reminder.json)
 
 ### Schedule Trigger
 
@@ -130,15 +120,11 @@ The Set node creates variables such as the reminder message and subject. It orga
 
 The Telegram node connects to the Telegram Bot API and sends the reminder message directly to the specified chat ID.
 
-### Gmail Node
-
-The Gmail node sends an email reminder to the specified recipient using the subject and message created in the Set node.
-
 ---
 
 # 💻 Checklist
 
-- [[ ]]	![checklist](Pasted%20image%2020260723093321.png)
+- [ ]![obj](Pasted%20image%2020260723093321.png)
 	
 - [ ]
 
@@ -148,35 +134,9 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 
 | Title                                      | Status                                               |
 | ------------------------------------------ | ---------------------------------------------------- |
-| n8n – Build your first workflow (tutorial) | [https://n8n.io/](https://docs.n8n.io/try-it-out/)   |
+| n8n – Build your first workflow (tutorial) | https://docs.n8n.io/try-it-out/                      |
 | n8n Docs – Trigger nodes                   | https://docs.n8n.io/integrations/builtin/core-nodes/ |
 |                                            |                                                      |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -195,16 +155,6 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 
 ---
 
-# 🔗 Related Notes
-
-- [ ]
-    
-- [ ]
-    
-- [ ]
-    
----
-
 # 📅 Study Log
 
 | Date       | Activity                                            |
@@ -214,11 +164,9 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 |            |                                                     |
 
 
-
 ---
 ---
 ---
-
 
 
 # 📘 Day 3
@@ -228,7 +176,7 @@ The Gmail node sends an email reminder to the specified recipient using the subj
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![objective](Pasted%20image%2020260724092936.png)
+![obj](Pasted%20image%2020260724092936.png)
 
 ---
 
@@ -243,7 +191,7 @@ By the end of this day I should be able to:
 
 # 💻 Checklist
 
-- ![checklist](Pasted%20image%2020260724093014.png)
+- [ ]![checklist](Pasted%20image%2020260724093014.png)
 - [ ]
 
 ---
@@ -255,32 +203,6 @@ By the end of this day I should be able to:
 | MDN – Working with JSON | https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON |
 | n8n Docs – Expressions  | https://docs.n8n.io/code/expressions/                                  |
 |                         |                                                                        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -299,15 +221,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
----
 
 # 📅 Study Log
 
@@ -316,7 +229,6 @@ By the end of this day I should be able to:
 | 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
 | 2026-07-23 | Created Daily Remainder.                            |
 | 2026-07-24 | Created student/employee records.                   |
-
 
 
 
@@ -332,7 +244,7 @@ By the end of this day I should be able to:
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![objectives](Pasted%20image%2020260725090456.png)
+![obj](Pasted%20image%2020260725090456.png)
 
 ---
 
@@ -364,6 +276,73 @@ By the end of this day I should be able to:
 
 ---
 
+# 📋 Revision Checklist
+
+- Date:  25 Jul 2026 Sat
+- Today I learned: loops, if-else, and flow logic in n8n.
+- Today I built / practiced: Created small routing workflow
+- Technologies / nodes used: Github, Obsidian,  n8n, and JSON.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow                      |
+|            |                                                     |
+
+---
+---
+---
+
+# 📘 Day 5
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![obj](Pasted%20image%2020260727080108.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Screenshot%20From%202026-07-27%2009-09-50.png)
+
+![a2](Internship%20Applications.xlsx)
+
+![a3](Pasted%20image%2020260727091124.png)
+
+![a4](Internship%20Application%20Workflow.json)
+
+---
+
+# 💻 Checklist
+
+-  ![checklist](Pasted%20image%2020260727080539.png)
+
+---
+
+# 📚 Resources
+
+| Title                         | Status                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| n8n Docs – Google Sheets node | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/ |
+| n8n Docs – Gmail node         | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.gmail/        |
+
+---
+
 # 🧠 Important Concepts
 
 
@@ -392,10 +371,10 @@ By the end of this day I should be able to:
 
 # 📋 Revision Checklist
 
-- Date:  25 Jul 2026 Sat
-- Today I learned: loops, if-else, and flow logic in n8n.
-- Today I built / practiced: Created small routing workflow
-- Technologies / nodes used: Github, Obsidian,  n8n, and JSON.
+- Date:  27 Jul 2026 Mon
+- Today I learned: loops, google sheets nodes, email nodes in n8n.
+- Today I built / practiced: Created Internship Application Processing Workflow.
+- Technologies / nodes used: Github, Obsidian,  n8n, JSON, Sheets.
 - Problem(s) faced: -
 - How I solved them: -
 - Task status: Completed
@@ -423,10 +402,5 @@ By the end of this day I should be able to:
 | 2026-07-23 | Created Daily Remainder.                            |
 | 2026-07-24 | Created student/employee records.                   |
 | 2026-07-25 | Created small routing workflow                      |
-|            |                                                     |
-
-
-
-
-
+| 2026-07-27 | Internship Application Processing                   |
 
