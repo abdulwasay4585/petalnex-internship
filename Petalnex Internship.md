@@ -404,3 +404,119 @@ By the end of this day I should be able to:
 | 2026-07-25 | Created small routing workflow                      |
 | 2026-07-27 | Internship Application Processing                   |
 
+
+
+
+---
+---
+---
+
+
+
+# 📘 Day 6
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![obj](Pasted%20image%2020260728073638.png)
+---
+
+# 📂 Assignments
+
+![a1](Screenshot%20From%202026-07-28%2009-25-37.png)
+
+![a2](Candidate%20Screening.json)
+
+
+![a3](Candidates.xlsx)
+
+![README(2)](README(2).md)
+
+---
+
+# 💻 Checklist
+
+-  ![675](Pasted%20image%2020260728073824.png)
+![](Pasted%20image%2020260728074252.png)
+
+![](Pasted%20image%2020260728074348.png)
+---
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  28 Jul 2026 Mon
+- Today I learned: -
+- Today I built / practiced: Created Candidate Screening Automation.
+- Technologies / nodes used: Github, Obsidian,  n8n, JSON, Sheets.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/Candidate-Screening-Automation-in-n8n.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+
+
+
+
+
+
