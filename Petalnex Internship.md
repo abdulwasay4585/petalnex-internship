@@ -518,5 +518,220 @@ By the end of this day I should be able to:
 
 
 
+---
+---
+---
+
+# 📘 Day 7
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![obj1](Pasted%20image%2020260729031952.png)
+---
+
+# 📂 Assignments
+
+![a1](API-Exploration.pdf)
+---
+
+# 💻 Checklist
+
+-  ![ch1](Pasted%20image%2020260729032354.png)
+---
+
+# 📚 Resources
+
+| Title                            | Status                                                      |
+| -------------------------------- | ----------------------------------------------------------- |
+| MDN – An overview of HTTP        | https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview  |
+| MDN – HTTP response status codes | https://developer.mozilla.org/en-US/docs/Web/HTTP/Status    |
+| Postman – Learning Center        | https://learning.postman.com/docs/getting-started/overview/ |
+| Public APIs list (for practice)  | https://github.com/public-apis/public-apis                  |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  29 Jul 2026 Wed
+- Today I learned: About http request , status codes, api, and headers. 
+- Today I built / practiced: Used Weather API in Postman.
+- Technologies / nodes used: Github, Obsidian,  Postman, JSON.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+|            |                                                     |
+
+
+
+---
+---
+---
+
+
+
+# 📘 Day 8
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![obj11](Pasted%20image%2020260730081928.png)
+
+---
+
+# 📂 Assignments
+
+**Authentication Method:** The Open Meteo Weather API does **not require authentication**. It is a public REST API that allows users to access weather forecast data without an API key, OAuth token, or any other authentication mechanism. Therefore, the HTTP Request in n8n was configured without any authentication settings.
+
+![a1](Screenshot%20From%202026-07-30%2016-15-26.png)
+
+![a2](Weather%20Notification%20Automation.json)
+
+---
+
+# 💻 Checklist
+
+![checklist11](Pasted%20image%2020260730082003.png)
+
+
+---
+
+# 📚 Resources
+
+| Title                                         | Status                                                                          |
+| --------------------------------------------- | ------------------------------------------------------------------------------- |
+| n8n Docs – HTTP Request node                  | https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/ |
+| MDN – Using the Fetch API (concept reference) | https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch          |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  30 Jul 2026 Thu
+- Today I learned: About http node , status codes. 
+- Today I built / practiced: Created Weather Notification Automation.
+- Technologies / nodes used: Github, Obsidian,  Postman, JSON.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+|            |                                                     |
+
+
+
+
+
+
 
 
