@@ -729,7 +729,238 @@ By the end of this day I should be able to:
 |            |                                                     |
 
 
+---
+---
+---
 
+
+
+# 📘 Day 9
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![objjj](Pasted%20image%2020260731064818.png)
+
+---
+
+# 📂 Assignments
+
+```
+
+// Messy dataset
+const data = [
+  {
+    name: "   john doe ",
+    email: "John@Email.COM",
+    score: 95
+  },
+  {
+    name: "aLiCe smith",
+    email: "Alice@MAIL.com",
+    score: 87
+  },
+  {
+    name: "   BOB JOHNSON",
+    email: "BOB@EMAIL.COM",
+    score: 78
+  },
+  {
+    name: "mary   brown",
+    email: "Mary@Example.COM",
+    score: 69
+  },
+  {
+    name: "DAVID wilson",
+    email: "David@Example.com",
+    score: 91
+  },
+  {
+    name: "  emma davis ",
+    email: "EMMA@MAIL.COM",
+    score: 82
+  },
+  {
+    name: "James MILLER",
+    email: "James@Mail.com",
+    score: 73
+  },
+  {
+    name: "  Olivia Garcia",
+    email: "Olivia@EMAIL.com",
+    score: 97
+  },
+  {
+    name: "michael martinez ",
+    email: "Michael@Example.COM",
+    score: 66
+  },
+  {
+    name: "SOPHIA Rodriguez",
+    email: "Sophia@Mail.Com",
+    score: 84
+  },
+  {
+    name: " william Hernandez ",
+    email: "William@EMAIL.COM",
+    score: 88
+  },
+  {
+    name: "Charlotte Lopez",
+    email: "Charlotte@Mail.COM",
+    score: 59
+  },
+  {
+    name: " daniel GONZALEZ",
+    email: "Daniel@Example.COM",
+    score: 92
+  },
+  {
+    name: "Amelia Perez ",
+    email: "Amelia@Mail.COM",
+    score: 76
+  },
+  {
+    name: " ETHAN THOMAS",
+    email: "ETHAN@EMAIL.COM",
+    score: 81
+  }
+];
+
+// Function to convert to Title Case
+function titleCase(str) {
+  return str
+    .trim()
+    .toLowerCase()
+    .split(/\s+/)
+    .map(word =>
+      word.charAt(0).toUpperCase() + word.slice(1)
+    )
+    .join(" ");
+}
+
+// Function to assign grade
+function getGrade(score) {
+  if (score >= 90) return "A";
+  if (score >= 80) return "B";
+  if (score >= 70) return "C";
+  if (score >= 60) return "D";
+  return "F";
+}
+
+const result = data
+
+.map(person => ({
+    name: titleCase(person.name),
+    email: person.email.trim().toLowerCase(),
+    score: person.score,
+    grade: getGrade(person.score)
+}))
+
+.filter(person => person.grade === "A" || person.grade === "B");
+
+return result.map(item => ({
+    json: item
+}));
+
+```
+
+![a1](Pasted%20image%2020260731071908.png)
+
+![a2](code%20block%20with%20js.json)
+
+
+---
+
+# 💻 Checklist
+
+![obj1](Pasted%20image%2020260731064858.png)
+
+
+---
+
+# 📚 Resources
+
+| Title                           | Status                                                                |
+| ------------------------------- | --------------------------------------------------------------------- |
+| n8n Docs – Code node            | https://docs.n8n.io/code/code-node/                                   |
+| MDN – JavaScript first steps    | https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps |
+| javascript.info (free tutorial) | https://javascript.info/                                              |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  31 Jul 2026 Fri
+- Today I learned: About JS fundamentals. 
+- Today I built / practiced:  Transformed messy data in to clean data with js.
+- Technologies / nodes used: Github, Obsidian,  Javscript, n8n.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+
+
+---
+---
+---
 
 
 
