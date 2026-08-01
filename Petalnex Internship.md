@@ -964,5 +964,119 @@ return result.map(item => ({
 
 
 
+# 📘 Day 10
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![ob1](Pasted%20image%2020260801083231.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Pasted%20image%2020260801144016.png)
+
+![a2](Form%20Intake%20Workflow.json)
+
+
+![a3](Screenshot%20From%202026-08-01%2014-39-58.png)
+
+
+---
+
+# 💻 Checklist
+
+![ch1](Pasted%20image%2020260801084138.png)
+
+
+---
+
+# 📚 Resources
+
+| Title                   | Status                                                                          |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| n8n Docs – Webhook node | https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-<br>base.webhook/ |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  01 Aug 2026 Sat
+- Today I learned:  webhook node, and postman
+- Today I built / practiced:  created form intake workflow.
+- Technologies / nodes used: Github, Obsidian,  Postman, n8n.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+
+
+---
+---
+---
+
+
+
+
+
 
 
