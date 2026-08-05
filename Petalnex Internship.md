@@ -1190,6 +1190,262 @@ By the end of this day I should be able to:
 
 
 
+# 📘 Day 12
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+
+
+---
+
+# 📂 Assignments
+
+![a1](Screenshot%20From%202026-08-04%2009-57-46.png)
+
+![a2](Lead%20Management%20System.json)
+
+
+![a3](Screenshot%20From%202026-08-04%2009-57-54.png)
+
+
+![a4](FollowUp%20Lead%20Management%20System.xlsx)
+
+![a5](Lead%20Management%20System.xlsx)
+
+
+
+---
+
+
+# 💻 Checklist
+
+![ch1](Pasted%20image%2020260804081854.png)
+
+---
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  04 Aug 2026 Tue
+- Today I learned: -
+- Today I built / practiced:  Created Lead Management System.
+- Technologies / nodes used: Github, Obsidian,  Postman, n8n, Sheets, HTTP Request.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/Lead-Management-System-in-n8n.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+
+
+---
+---
+---
+
+
+
+
+
+# 📘 Day 13
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![o1](Pasted%20image%2020260805145822.png)
+
+![o2](Pasted%20image%2020260805150033.png)
+
+
+---
+
+# 📂 Assignments
+
+![a1](Pasted%20image%2020260805153252.png)
+
+
+![a2](Screenshot%20From%202026-08-05%2015-27-29.png)
+
+
+
+
+## Which API Would I Use for Classification vs Long Context Work?
+
+Large Language Models have different strengths depending on the task. For text classification tasks such as spam detection, sentiment analysis, topic categorization, or intent recognition, I would prefer the **Groq API**. Groq provides extremely fast inference because it is optimized for high speed execution. Classification tasks usually involve short inputs and require quick responses, making Groq an excellent choice. Its low latency also makes it suitable for real time applications such as chatbots and customer support systems.
+
+For long context tasks, I would use the **Gemini API**. Gemini supports very large context windows, allowing it to process lengthy documents, research papers, books, contracts, and conversations without losing important information. This makes it well suited for document summarization, question answering over large files, report generation, and code analysis. Although it may not always be as fast as Groq, its ability to understand and reason over long inputs provides more accurate and coherent results for complex tasks.
+
+In summary, Groq is the better option when speed and low latency are the main priorities, especially for classification problems. Gemini is the better choice when working with long documents or tasks that require understanding a large amount of context.
+
+---
+
+
+# 💻 Checklist
+
+![ch](Pasted%20image%2020260805145902.png)
+
+
+---
+
+
+
+# 📚 Resources
+
+| Title                                       | Status                           |
+| ------------------------------------------- | -------------------------------- |
+| n8n Docs – Advanced AI / LangChain overview | https://docs.n8n.io/advanced-ai/ |
+| Google AI Studio (free Gemini API key)      | https://aistudio.google.com/     |
+| Groq Console (free, very fast inference)    | https://console.groq.com/        |
+| Ollama (run models locally, free)           | https://ollama.com/              |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  05 Aug 2026 Wed
+- Today I learned: AI vs ML vs Generative AI vs LLMs
+- Today I built / practiced:  Tested LLM apis via Postman.
+- Technologies / nodes used: Github, Obsidian,  Postman, Google AI Studio, Groq.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+
+
+---
+---
+---
+
+
+
+
+
+
 
 
 
