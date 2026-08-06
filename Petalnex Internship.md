@@ -1444,6 +1444,117 @@ In summary, Groq is the better option when speed and low latency are the main pr
 
 
 
+# 📘 Day 14
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![o1](Pasted%20image%2020260806101141.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Prompt_Library.pdf)
+
+---
+
+
+# 💻 Checklist
+
+![ch11](Pasted%20image%2020260806101248.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                                   | Status                                                                        |
+| --------------------------------------- | ----------------------------------------------------------------------------- |
+| Google – Prompting guide (Gemini)       | https://ai.google.dev/gemini-api/docs/prompting-strategies                    |
+| Anthropic – Prompt engineering overview | https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  06 Aug 2026 Thu
+- Today I learned: The prompt framework: ROLE → CONTEXT → TASK → RULES → OUTPUT FORMAT → EXAMPLES
+- Today I built / practiced: Practiced Prompt Engineering.
+- Technologies / nodes used: Github, Obsidian,  Postman, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+
+
+---
+---
+---
+
 
 
 
