@@ -1557,6 +1557,143 @@ By the end of this day I should be able to:
 
 
 
+# 📘 Day 15
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![oo1](Pasted%20image%2020260807150040.png)
+
+
+---
+
+# 📂 Assignments
+
+![a1](AI%20Email%20Classifier.json)
+
+![](Screenshot%20From%202026-08-07%2016-49-15.png)
+
+Prompt 
+Analyze the following email and classify it into exactly one of these categories:
+
+Sales
+Support
+Complaint
+Invoice
+Spam
+General
+
+Email Subject:
+{{ $json.email_subject }}
+
+Sender:
+{{ $json.email_from }}
+
+Email Body:
+{{ $json.email_body }}
+
+Return the classification according to the instructions in the system message.
+
+
+---
+
+
+# 💻 Checklist
+
+![cch1](Pasted%20image%2020260807150219.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                           | Status                                                                                          |
+| ------------------------------- | ----------------------------------------------------------------------------------------------- |
+| n8n Docs – Basic LLM Chain node | https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.chainllm/ |
+| n8n Docs – AI/LangChain nodes   | https://docs.n8n.io/integrations/builtin/cluster-nodes/                                         |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  07 Aug 2026 Fri
+- Today I learned: Basic LLM Classifier node, and model node.
+- Today I built / practiced: Created AI Email Classifier.
+- Technologies / nodes used: Github, Obsidian,  n8n, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+
+
+---
+---
+---
+
+
 
 
 
