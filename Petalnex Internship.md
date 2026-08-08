@@ -1,19 +1,3 @@
----
-
-created: 2026-07-22 15:50  
-updated: 2026-07-23 00:00  
-course_code:  
-semester:  
-credits:  
-instructor:  
-department:  
-status: Ongoing  
-tags:
-
-- course  
-    aliases: []
-    
-
 
 # 📘 Day 1
 
@@ -98,15 +82,15 @@ Answer
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260723092542.png)
+![](Pasted%20image%2020260723092542.png)
 
 ---
 
 # 📂 Assignments
 
-![a1](Pasted%20image%2020260723164748.png)
+![](Pasted%20image%2020260723164748.png)
 
-![a2](Daily%20Automated%20Reminder.json)
+![](Daily%20Automated%20Reminder.json)
 
 ### Schedule Trigger
 
@@ -124,7 +108,7 @@ The Telegram node connects to the Telegram Bot API and sends the reminder messag
 
 # 💻 Checklist
 
-- [ ]![obj](Pasted%20image%2020260723093321.png)
+- [ ]![](Pasted%20image%2020260723093321.png)
 	
 - [ ]
 
@@ -176,22 +160,22 @@ The Telegram node connects to the Telegram Bot API and sends the reminder messag
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260724092936.png)
+![](Pasted%20image%2020260724092936.png)
 
 ---
 
 # 📂 Assignments
 
-![a1](Pasted%20image%2020260725001257.png)
+![](Pasted%20image%2020260725001257.png)
 
 
-![a2](student%20emploee%20records%20clasification.json)
+![](student%20emploee%20records%20clasification.json)
 
 ---
 
 # 💻 Checklist
 
-- [ ]![checklist](Pasted%20image%2020260724093014.png)
+- [ ]![](Pasted%20image%2020260724093014.png)
 - [ ]
 
 ---
@@ -244,16 +228,16 @@ By the end of this day I should be able to:
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260725090456.png)
+![](Pasted%20image%2020260725090456.png)
 
 ---
 
 # 📂 Assignments
 
-![a1](Pasted%20image%2020260725171546.png)
+![](Pasted%20image%2020260725171546.png)
 
 
-![a2](Routing%20workflow.json)
+![](Routing%20workflow.json)
 
 
 
@@ -262,7 +246,7 @@ By the end of this day I should be able to:
 
 # 💻 Checklist
 
--  ![checklist](Pasted%20image%2020260725090539.png)
+-  ![](Pasted%20image%2020260725090539.png)
 - 
 
 ---
@@ -312,25 +296,25 @@ By the end of this day I should be able to:
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260727080108.png)
+![](Pasted%20image%2020260727080108.png)
 
 ---
 
 # 📂 Assignments
 
-![a1](Screenshot%20From%202026-07-27%2009-09-50.png)
+![](Screenshot%20From%202026-07-27%2009-09-50.png)
 
-![a2](Internship%20Applications.xlsx)
+![](Internship%20Applications.xlsx)
 
-![a3](Pasted%20image%2020260727091124.png)
+![](Pasted%20image%2020260727091124.png)
 
-![a4](Internship%20Application%20Workflow.json)
+![](Internship%20Application%20Workflow.json)
 
 ---
 
 # 💻 Checklist
 
--  ![checklist](Pasted%20image%2020260727080539.png)
+-  ![](Pasted%20image%2020260727080539.png)
 
 ---
 
@@ -340,32 +324,6 @@ By the end of this day I should be able to:
 | ----------------------------- | ------------------------------------------------------------------------------- |
 | n8n Docs – Google Sheets node | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.googlesheets/ |
 | n8n Docs – Gmail node         | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.gmail/        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -384,16 +342,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
----
-
 # 📅 Study Log
 
 | Date       | Activity                                            |
@@ -403,7 +351,7 @@ By the end of this day I should be able to:
 | 2026-07-24 | Created student/employee records.                   |
 | 2026-07-25 | Created small routing workflow                      |
 | 2026-07-27 | Internship Application Processing                   |
-
+|            |                                                     |
 
 
 
@@ -420,17 +368,19 @@ By the end of this day I should be able to:
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260728073638.png)
+![](Pasted%20image%2020260728073638.png)
+
+
 ---
 
 # 📂 Assignments
 
-![a1](Screenshot%20From%202026-07-28%2009-25-37.png)
+![](Screenshot%20From%202026-07-28%2009-25-37.png)
 
-![a2](Candidate%20Screening.json)
+![](Candidate%20Screening.json)
 
 
-![a3](Candidates.xlsx)
+![](Candidates.xlsx)
 
 ![README(2)](README(2).md)
 
@@ -442,40 +392,7 @@ By the end of this day I should be able to:
 ![](Pasted%20image%2020260728074252.png)
 
 ![](Pasted%20image%2020260728074348.png)
----
 
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -494,16 +411,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
----
-
 # 📅 Study Log
 
 | Date       | Activity                                            |
@@ -514,8 +421,6 @@ By the end of this day I should be able to:
 | 2026-07-25 | Created small routing workflow.                     |
 | 2026-07-27 | Created Internship Application Processing.          |
 | 2026-07-28 | Created Candidate Screening Automation.             |
-
-
 
 
 ---
@@ -534,12 +439,12 @@ By the end of this day I should be able to:
 
 # 📂 Assignments
 
-![a1](API-Exploration.pdf)
+![](API-Exploration.pdf)
 ---
 
 # 💻 Checklist
 
--  ![ch1](Pasted%20image%2020260729032354.png)
+-  ![](Pasted%20image%2020260729032354.png)
 ---
 
 # 📚 Resources
@@ -550,32 +455,6 @@ By the end of this day I should be able to:
 | MDN – HTTP response status codes | https://developer.mozilla.org/en-US/docs/Web/HTTP/Status    |
 | Postman – Learning Center        | https://learning.postman.com/docs/getting-started/overview/ |
 | Public APIs list (for practice)  | https://github.com/public-apis/public-apis                  |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -592,16 +471,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -641,9 +510,9 @@ By the end of this day I should be able to:
 
 **Authentication Method:** The Open Meteo Weather API does **not require authentication**. It is a public REST API that allows users to access weather forecast data without an API key, OAuth token, or any other authentication mechanism. Therefore, the HTTP Request in n8n was configured without any authentication settings.
 
-![a1](Screenshot%20From%202026-07-30%2016-15-26.png)
+![](Screenshot%20From%202026-07-30%2016-15-26.png)
 
-![a2](Weather%20Notification%20Automation.json)
+![](Weather%20Notification%20Automation.json)
 
 ---
 
@@ -663,38 +532,12 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  30 Jul 2026 Thu
 - Today I learned: About http node , status codes. 
 - Today I built / practiced: Created Weather Notification Automation.
-- Technologies / nodes used: Github, Obsidian,  Postman, JSON.
+- Technologies / nodes used: Github, Obsidian,  Postman, JSON, n8n.
 - Problem(s) faced: -
 - How I solved them: -
 - Task status: Completed
@@ -702,16 +545,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -729,11 +562,10 @@ By the end of this day I should be able to:
 |            |                                                     |
 
 
----
----
----
 
-
+---
+---
+---
 
 # 📘 Day 9
 
@@ -743,7 +575,7 @@ By the end of this day I should be able to:
 
 By the end of this day I should be able to:
 
-![objjj](Pasted%20image%2020260731064818.png)
+![](Pasted%20image%2020260731064818.png)
 
 ---
 
@@ -868,16 +700,16 @@ return result.map(item => ({
 
 ```
 
-![a1](Pasted%20image%2020260731071908.png)
+![](Pasted%20image%2020260731071908.png)
 
-![a2](code%20block%20with%20js.json)
+![](code%20block%20with%20js.json)
 
 
 ---
 
 # 💻 Checklist
 
-![obj1](Pasted%20image%2020260731064858.png)
+![](Pasted%20image%2020260731064858.png)
 
 
 ---
@@ -889,32 +721,6 @@ return result.map(item => ({
 | n8n Docs – Code node            | https://docs.n8n.io/code/code-node/                                   |
 | MDN – JavaScript first steps    | https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps |
 | javascript.info (free tutorial) | https://javascript.info/                                              |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -931,16 +737,6 @@ return result.map(item => ({
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1003,32 +799,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  01 Aug 2026 Sat
@@ -1042,16 +812,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1073,6 +833,7 @@ By the end of this day I should be able to:
 ---
 ---
 ---
+
 
 
 # 📘 Day 11
@@ -1103,7 +864,7 @@ By the end of this day I should be able to:
 
 # 💻 Checklist
 
-![ch1](Pasted%20image%2020260803064418.png)
+![](Pasted%20image%2020260803064418.png)
 
 
 ---
@@ -1113,32 +874,6 @@ By the end of this day I should be able to:
 | Title                   | Status                                                                          |
 | ----------------------- | ------------------------------------------------------------------------------- |
 | n8n Docs – Webhook node | https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-<br>base.webhook/ |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -1155,16 +890,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1190,6 +915,7 @@ By the end of this day I should be able to:
 
 
 
+
 # 📘 Day 12
 
 ---
@@ -1204,17 +930,17 @@ By the end of this day I should be able to:
 
 # 📂 Assignments
 
-![a1](Screenshot%20From%202026-08-04%2009-57-46.png)
+![](Screenshot%20From%202026-08-04%2009-57-46.png)
 
-![a2](Lead%20Management%20System.json)
-
-
-![a3](Screenshot%20From%202026-08-04%2009-57-54.png)
+![](Lead%20Management%20System.json)
 
 
-![a4](FollowUp%20Lead%20Management%20System.xlsx)
+![](Screenshot%20From%202026-08-04%2009-57-54.png)
 
-![a5](Lead%20Management%20System.xlsx)
+
+![](FollowUp%20Lead%20Management%20System.xlsx)
+
+![](Lead%20Management%20System.xlsx)
 
 
 
@@ -1223,41 +949,7 @@ By the end of this day I should be able to:
 
 # 💻 Checklist
 
-![ch1](Pasted%20image%2020260804081854.png)
-
----
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
+![](Pasted%20image%2020260804081854.png)
 
 ---
 
@@ -1274,16 +966,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1310,8 +992,6 @@ By the end of this day I should be able to:
 
 
 
-
-
 # 📘 Day 13
 
 ---
@@ -1319,19 +999,19 @@ By the end of this day I should be able to:
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![o1](Pasted%20image%2020260805145822.png)
+![](Pasted%20image%2020260805145822.png)
 
-![o2](Pasted%20image%2020260805150033.png)
+![](Pasted%20image%2020260805150033.png)
 
 
 ---
 
 # 📂 Assignments
 
-![a1](Pasted%20image%2020260805153252.png)
+![](Pasted%20image%2020260805153252.png)
 
 
-![a2](Screenshot%20From%202026-08-05%2015-27-29.png)
+![](Screenshot%20From%202026-08-05%2015-27-29.png)
 
 
 
@@ -1349,7 +1029,7 @@ In summary, Groq is the better option when speed and low latency are the main pr
 
 # 💻 Checklist
 
-![ch](Pasted%20image%2020260805145902.png)
+![](Pasted%20image%2020260805145902.png)
 
 
 ---
@@ -1367,32 +1047,6 @@ In summary, Groq is the better option when speed and low latency are the main pr
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  05 Aug 2026 Wed
@@ -1406,16 +1060,6 @@ In summary, Groq is the better option when speed and low latency are the main pr
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1443,7 +1087,6 @@ In summary, Groq is the better option when speed and low latency are the main pr
 
 
 
-
 # 📘 Day 14
 
 ---
@@ -1452,24 +1095,22 @@ In summary, Groq is the better option when speed and low latency are the main pr
 
 By the end of this day I should be able to:
 
-![o1](Pasted%20image%2020260806101141.png)
+![](Pasted%20image%2020260806101141.png)
 
 ---
 
 # 📂 Assignments
 
-![a1](Prompt_Library.pdf)
+![](Prompt_Library.pdf)
 
 ---
 
 
 # 💻 Checklist
 
-![ch11](Pasted%20image%2020260806101248.png)
+![](Pasted%20image%2020260806101248.png)
 
 ---
-
-
 
 # 📚 Resources
 
@@ -1477,32 +1118,6 @@ By the end of this day I should be able to:
 | --------------------------------------- | ----------------------------------------------------------------------------- |
 | Google – Prompting guide (Gemini)       | https://ai.google.dev/gemini-api/docs/prompting-strategies                    |
 | Anthropic – Prompt engineering overview | https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -1519,16 +1134,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1554,7 +1159,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
 
 
 # 📘 Day 15
@@ -1617,6 +1221,138 @@ Return the classification according to the instructions in the system message.
 
 ---
 
+# 📋 Revision Checklist
+
+- Date:  07 Aug 2026 Fri
+- Today I learned: Basic LLM Classifier node, and model node.
+- Today I built / practiced: Created AI Email Classifier.
+- Technologies / nodes used: Github, Obsidian,  n8n, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+
+
+---
+---
+---
+
+
+# 📘 Day 16
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![chhh1](Pasted%20image%2020260808081309.png)
+
+---
+
+# 📂 Assignments
+
+![a1](Screenshot%20From%202026-08-08%2011-09-08.png)
+
+![a2](Screenshot%20From%202026-08-08%2011-09-56.png)
+
+
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string",
+      "enum": [
+        "Complaint",
+        "Inquiry",
+        "Feedback",
+        "Other"
+      ]
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Medium",
+        "High",
+        "Urgent"
+      ]
+    },
+    "sentiment": {
+      "type": "string",
+      "enum": [
+        "Positive",
+        "Neutral",
+        "Negative"
+      ]
+    },
+    "department": {
+      "type": "string",
+      "enum": [
+        "Support",
+        "Sales",
+        "Billing",
+        "General"
+      ]
+    },
+    "summary": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "category",
+    "priority",
+    "sentiment",
+    "department",
+    "summary"
+  ],
+  "additionalProperties": false
+}
+
+---
+
+
+# 💻 Checklist
+
+![ch1](Pasted%20image%2020260808081332.png)
+
+
+---
+
+
+
+# 📚 Resources
+
+| Title                               | Status                                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| n8n Docs – Structured Output Parser | https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/n8n-nodes-langchain.outputparserstructured/ |
+
+---
+
 # 🧠 Important Concepts
 
 
@@ -1645,9 +1381,9 @@ Return the classification according to the instructions in the system message.
 
 # 📋 Revision Checklist
 
-- Date:  07 Aug 2026 Fri
-- Today I learned: Basic LLM Classifier node, and model node.
-- Today I built / practiced: Created AI Email Classifier.
+- Date:  08 Aug 2026 Sat
+- Today I learned: AI Email Classifier, and gemini api, structure output node.
+- Today I built / practiced: Created Strict JSON Email Classification.
 - Technologies / nodes used: Github, Obsidian,  n8n, Google AI Studio.
 - Problem(s) faced: -
 - How I solved them: -
@@ -1687,16 +1423,12 @@ Return the classification according to the instructions in the system message.
 | 2026-08-05 | Tested LLM apis via Postman.                        |
 | 2026-08-06 | Practiced Prompt Engineering.                       |
 | 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 |  Created Strict JSON Email Classification.          |
 
 
 ---
 ---
 ---
-
-
-
-
-
 
 
 
