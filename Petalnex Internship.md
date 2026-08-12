@@ -1432,3 +1432,302 @@ By the end of this day I should be able to:
 
 
 
+
+# 📘 Day 17
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+![](Pasted%20image%2020260812144312.png)
+
+---
+
+# 📂 Assignments
+
+![a1](classification_benchmark_report.pdf)
+
+---
+
+
+# 💻 Checklist
+
+![](Pasted%20image%2020260812144456.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                               | Status                                                       |
+| ----------------------------------- | ------------------------------------------------------------ |
+| OpenRouter – Free LLM APIs compared | https://openrouter.ai/blog/tutorials/free-llm-apis-compared/ |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  10 Aug 2026 Mon
+- Today I learned: Compared Gemini and Groq API.
+- Today I built / practiced: Created Gemini and Groq API comparation table.
+- Technologies / nodes used: Github, Obsidian,  Groq, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API                        |
+
+
+---
+---
+---
+
+# 📘 Day 18
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+
+---
+
+# 📂 Assignments
+
+![](Pasted%20image%2020260812192343.png)
+
+# Prompt Used 
+You are an AI Customer Support Triage Assistant.  Your task is to analyze incoming customer support messages.  Determine:  1. Category 2. Priority 3. Sentiment 4. Department 5. Summary 6. Suggested response  Use ONLY the information contained in the customer message.  Do not invent facts.  CATEGORY RULES:  Complaint: Use when the customer reports a problem, defect, damaged product, bad service, billing problem, delivery problem, or expresses dissatisfaction.  Inquiry: Use when the customer is asking for information or clarification.  Feedback: Use when the customer provides an opinion, suggestion, praise, or general feedback without requesting support for a specific problem.  Other: Use when the message does not clearly fit the above categories.  PRIORITY RULES:  Urgent: Use when the issue involves immediate danger, serious financial loss, account compromise, security problems, critical service outage, or very strong language indicating immediate escalation.  High: Use when the customer has a significant problem requiring prompt attention.  Medium: Use for normal customer problems or questions that require support but are not immediately critical.  Low: Use for general feedback, suggestions, simple questions, or non-critical matters.  SENTIMENT:  Positive Neutral Negative  DEPARTMENT:  Billing Technical Support Orders Returns Account Shipping Customer Experience General Support  Choose the department that best matches the customer's issue.  SUMMARY:  Write a short and accurate summary of the customer's problem.  SUGGESTED RESPONSE:  Write a professional and helpful response to the customer.  Do not promise refunds, replacements, credits, or other actions unless the customer message provides enough information to justify the suggestion.  Return ONLY the required structured JSON.
+
+# Structured JSON Schema
+{
+  "type": "object",
+  "properties": {
+    "category": {
+      "type": "string",
+      "enum": [
+        "Complaint",
+        "Inquiry",
+        "Feedback",
+        "Other"
+      ]
+    },
+    "priority": {
+      "type": "string",
+      "enum": [
+        "Low",
+        "Medium",
+        "High",
+        "Urgent"
+      ]
+    },
+    "sentiment": {
+      "type": "string",
+      "enum": [
+        "Positive",
+        "Neutral",
+        "Negative"
+      ]
+    },
+    "department": {
+      "type": "string",
+      "enum": [
+        "Billing",
+        "Technical Support",
+        "Orders",
+        "Returns",
+        "Account",
+        "Shipping",
+        "Customer Experience",
+        "General Support"
+      ]
+    },
+    "summary": {
+      "type": "string"
+    },
+    "suggested_response": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "category",
+    "priority",
+    "sentiment",
+    "department",
+    "summary",
+    "suggested_response"
+  ],
+  "additionalProperties": false
+}
+
+![aaa](test_data.json)
+
+![qwqw](AI%20Customer%20Support%20Triage%20System.json)
+
+
+---
+
+
+# 💻 Checklist
+
+![](Pasted%20image%2020260812163450.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  11 Aug 2026 Tue
+- Today I learned: -
+- Today I built / practiced: Created AI Customer Support Triage System.
+- Technologies / nodes used: Github, Obsidian,  Postman, Google AI Studio, n8n.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/AI-Customer-Support-Triage-System.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API.                       |
+| 2026-08-11 | Created AI Customer Support Triage System.          |
+
+
+---
+---
+---
+
+
+
+
