@@ -1730,4 +1730,120 @@ You are an AI Customer Support Triage Assistant.  Your task is to analyze incomi
 
 
 
+📘 Day 19
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![obj](Pasted%20image%2020260813130428.png)
+
+---
+
+# 📂 Assignments
+
+![rag](RAG-Explained.pdf)
+
+---
+
+
+# 💻 Checklist
+![ch](Pasted%20image%2020260813130521.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                    | Status                                                            |
+| ------------------------ | ----------------------------------------------------------------- |
+| n8n Docs – RAG in n8n    | https://docs.n8n.io/advanced-ai/rag-in-n8n/                       |
+| n8n Docs – Vector stores | https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/ |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  12 Aug 2026 Wed
+- Today I learned: learned about RAG, ingestion path, query path.
+- Today I built / practiced: Created RAG-Explained.pdf.
+- Technologies / nodes used: Github, Obsidian.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API.                       |
+| 2026-08-11 | Created AI Customer Support Triage System.          |
+| 2026-08-12 | Created RAG-Explained.pdf.                          |
+
+
+---
+---
+---
+
+
+
 
