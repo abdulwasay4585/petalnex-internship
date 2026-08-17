@@ -1971,8 +1971,6 @@ By the end of this day I should be able to:
 
 
 
-
-
 # 📘 Day 21
 
 ---
@@ -2101,5 +2099,135 @@ By the end of this day I should be able to:
 ---
 ---
 ---
+
+
+
+# 📘 Day 22
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![](Pasted%20image%2020260817163752.png)
+
+---
+
+# 📂 Assignments
+
+![](Screenshot%20From%202026-08-17%2016-57-44.png)
+
+![](Screenshot%20From%202026-08-17%2016-57-51.png)
+
+![](Screenshot%20From%202026-08-17%2016-58-00.png)
+![](Pasted%20image%2020260817170009.png)
+
+![](Simple%20AI%20Agent.json)
+
+
+---
+
+
+# 💻 Checklist
+
+![](Pasted%20image%2020260817163826.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                       | Status                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------- |
+| n8n Docs – AI Agent node    | https://docs.n8n.io/integrations/builtin/cluster-nodes/root-nodes/n8n-nodes-langchain.agent/ |
+| n8n Docs – Memory sub-nodes | https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/                            |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  17 Aug 2026 Mon
+- Today I learned: About AI Agent node and common agent tools.
+- Today I built / practiced: Created Simple AI Agent.
+- Technologies / nodes used: Github, Obsidian, n8n, Supabase, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API.                       |
+| 2026-08-11 | Created AI Customer Support Triage System.          |
+| 2026-08-12 | Created RAG-Explained.pdf.                          |
+| 2026-08-13 | Created Document Ingestion Workflow.                |
+| 2026-08-15 | Build a RAG Assistant.                              |
+| 2026-08-17 | Created Simple AI Agent.                            |
+
+
+---
+---
+---
+
+
 
 
