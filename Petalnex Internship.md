@@ -2357,3 +2357,293 @@ Delete Data Tool -> to delete the data from memory tool.
 ---
 
 
+
+# 📘 Day 24
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+
+---
+
+# 📂 Assignments
+
+![](Pasted%20image%2020260819175836.png)
+
+# Knowledge Source Data
+
+```
+return [
+  {
+    json: {
+      title: "Working Hours",
+      category: "HR",
+      source: "Employee Handbook",
+      content: "Northstar Technologies employees normally work from 9:00 AM to 5:00 PM from Monday to Friday. Employees should arrive on time and remain available during their scheduled working hours."
+    }
+  },
+  {
+    json: {
+      title: "Attendance Policy",
+      category: "HR",
+      source: "HR Policy Manual",
+      content: "Employees are expected to maintain regular attendance. Repeated unapproved absences may result in disciplinary action according to company policy."
+    }
+  },
+  {
+    json: {
+      title: "Annual Leave",
+      category: "HR",
+      source: "Employee Handbook",
+      content: "Full time employees receive 20 days of annual paid leave per calendar year. Leave requests should normally be submitted through the employee portal before the planned absence."
+    }
+  },
+  {
+    json: {
+      title: "Sick Leave",
+      category: "HR",
+      source: "HR Policy Manual",
+      content: "Employees may request sick leave when they are unable to work because of illness. A medical certificate may be required for extended periods of absence."
+    }
+  },
+  {
+    json: {
+      title: "Remote Work",
+      category: "HR",
+      source: "Remote Work Policy",
+      content: "Eligible employees may work remotely up to two days per week with prior approval from their manager. Employees working remotely must remain reachable during normal working hours."
+    }
+  },
+  {
+    json: {
+      title: "Overtime",
+      category: "HR",
+      source: "HR Policy Manual",
+      content: "Overtime work requires manager approval before the additional hours are worked. Approved overtime is compensated according to company policy."
+    }
+  },
+  {
+    json: {
+      title: "Probation Period",
+      category: "HR",
+      source: "Employee Handbook",
+      content: "New employees normally complete a three month probation period. During probation, performance and suitability for the role are evaluated by the employee's manager."
+    }
+  },
+  {
+    json: {
+      title: "Promotions",
+      category: "HR",
+      source: "Career Development Policy",
+      content: "Promotions are based on performance, skills, experience, business requirements and demonstrated readiness for the next role."
+    }
+  },
+  {
+    json: {
+      title: "Password Policy",
+      category: "IT",
+      source: "Information Security Policy",
+      content: "Employees must use strong passwords and must not share passwords with other people. Company passwords should not be reused on personal websites."
+    }
+  },
+  {
+    json: {
+      title: "VPN Access",
+      category: "IT",
+      source: "IT Security Guide",
+      content: "Employees accessing internal company resources from outside the office must use the approved company VPN."
+    }
+  },
+  {
+    json: {
+      title: "Laptop Policy",
+      category: "IT",
+      source: "IT Equipment Policy",
+      content: "Company laptops are provided for authorized business activities. Employees are responsible for protecting company equipment from theft, damage and unauthorized access."
+    }
+  },
+  {
+    json: {
+      title: "Software Requests",
+      category: "IT",
+      source: "IT Service Desk Guide",
+      content: "Employees requiring new software should submit a request through the IT service desk. IT will review the request for licensing, security and compatibility requirements."
+    }
+  },
+  {
+    json: {
+      title: "Security Incidents",
+      category: "IT",
+      source: "Information Security Policy",
+      content: "Suspected security incidents such as phishing, malware or unauthorized access must be reported immediately to the IT security team."
+    }
+  },
+  {
+    json: {
+      title: "Salary Payment",
+      category: "Finance",
+      source: "Payroll Policy",
+      content: "Employee salaries are processed monthly and are normally deposited into the employee's registered bank account according to the payroll schedule."
+    }
+  },
+  {
+    json: {
+      title: "Expense Reimbursement",
+      category: "Finance",
+      source: "Expense Policy",
+      content: "Employees can request reimbursement for approved business expenses by submitting receipts and supporting documentation through the expense system."
+    }
+  },
+  {
+    json: {
+      title: "Travel Expenses",
+      category: "Finance",
+      source: "Travel Policy",
+      content: "Business travel expenses must comply with the company's travel policy. Employees should retain receipts for eligible transportation, accommodation and other approved expenses."
+    }
+  },
+  {
+    json: {
+      title: "Office Locations",
+      category: "General",
+      source: "Company Directory",
+      content: "Northstar Technologies operates offices in Islamabad, Lahore and Karachi. Employees should use the office location assigned to their department unless alternative arrangements are approved."
+    }
+  },
+  {
+    json: {
+      title: "Employee Support",
+      category: "General",
+      source: "Employee Support Guide",
+      content: "Employees can contact HR for employment related questions and IT support for technical problems affecting company systems or equipment."
+    }
+  },
+  {
+    json: {
+      title: "Company Holidays",
+      category: "General",
+      source: "Holiday Calendar",
+      content: "The company publishes its annual holiday calendar before the beginning of each calendar year. Employees should consult the official calendar for exact holiday dates."
+    }
+  },
+  {
+    json: {
+      title: "Office Access",
+      category: "General",
+      source: "Security Policy",
+      content: "Employees must use their authorized access cards when entering company offices and must not lend their access cards to other individuals."
+    }
+  }
+];
+```
+
+![](Company%20Knowledge%20AI%20Assistant.json)
+
+---
+
+
+# 💻 Checklist
+![](Pasted%20image%2020260819172549.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  19 Aug 2026 Wed
+- Today I learned: -
+- Today I built / practiced: Created Company Knowledge AI Assistant.
+- Technologies / nodes used: Github, Obsidian, n8n, Supabase, Google AI Studio.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/Company-Knowledge-AI-Assistant-in-n8n.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API.                       |
+| 2026-08-11 | Created AI Customer Support Triage System.          |
+| 2026-08-12 | Created RAG-Explained.pdf.                          |
+| 2026-08-13 | Created Document Ingestion Workflow.                |
+| 2026-08-15 | Build a RAG Assistant.                              |
+| 2026-08-17 | Created Simple AI Agent.                            |
+| 2026-08-18 | Created Multi Tool AI Agent.                        |
+| 2026-08-19 | Created Company Knowledge AI Assistant.             |
+
+
+---
+---
+---
+
+
+
