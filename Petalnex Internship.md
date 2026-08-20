@@ -2647,3 +2647,146 @@ return [
 
 
 
+# 📘 Day 25
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![](Pasted%20image%2020260820084552.png)
+
+---
+
+# 📂 Assignments
+
+![](Pasted%20image%2020260820121417.png)
+![](Pasted%20image%2020260820121431.png)
+![a3](CRUD%20in%20n8n.json)
+
+``` sql
+CREATE TABLE tickets (
+
+ticket_id SERIAL PRIMARY KEY,
+
+customer_name VARCHAR(100) NOT NULL,
+
+email VARCHAR(255) NOT NULL,
+
+category VARCHAR(50) NOT NULL,
+
+priority VARCHAR(20) DEFAULT 'Medium',
+
+status VARCHAR(20) DEFAULT 'Open',
+
+ai_summary TEXT,
+
+created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
+
+);
+```
+
+---
+
+
+# 💻 Checklist
+
+![](Pasted%20image%2020260820084611.png)
+---
+
+
+
+# 📚 Resources
+
+| Title                           | Status                                                                      |
+| ------------------------------- | --------------------------------------------------------------------------- |
+| n8n Docs – Postgres node        | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.postgres/ |
+| Supabase Docs – Getting started | https://supabase.com/docs                                                   |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  20 Aug 2026 Thu
+- Today I learned: About CRUD in Databases in n8n.
+- Today I built / practiced: Created CRUD with database workflow in n8n.
+- Technologies / nodes used: Github, Obsidian, n8n, Supabase.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                            |
+| ---------- | --------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
+| 2026-07-23 | Created Daily Remainder.                            |
+| 2026-07-24 | Created student/employee records.                   |
+| 2026-07-25 | Created small routing workflow.                     |
+| 2026-07-27 | Created Internship Application Processing.          |
+| 2026-07-28 | Created Candidate Screening Automation.             |
+| 2026-07-29 | Used Weather API in Postman.                        |
+| 2026-07-30 | Created Weather Notification Automation.            |
+| 2026-07-31 | Transformed messy data in to clean data with js.    |
+| 2026-08-01 | Created Form Intake Workflow.                       |
+| 2026-08-03 | Created Lead Processing Automation.                 |
+| 2026-08-04 | Created Lead Management System.                     |
+| 2026-08-05 | Tested LLM apis via Postman.                        |
+| 2026-08-06 | Practiced Prompt Engineering.                       |
+| 2026-08-07 | Created AI Email Classifier.                        |
+| 2026-08-08 | Created Strict JSON Email Classification.           |
+| 2026-08-10 | Compared Gemini and Groq API.                       |
+| 2026-08-11 | Created AI Customer Support Triage System.          |
+| 2026-08-12 | Created RAG-Explained.pdf.                          |
+| 2026-08-13 | Created Document Ingestion Workflow.                |
+| 2026-08-15 | Build a RAG Assistant.                              |
+| 2026-08-17 | Created Simple AI Agent.                            |
+| 2026-08-18 | Created Multi Tool AI Agent.                        |
+| 2026-08-19 | Created Company Knowledge AI Assistant.             |
+| 2026-08-20 | Created CRUD with database workflow in n8n.         |
+
+
+---
+---
+---
