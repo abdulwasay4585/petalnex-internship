@@ -2790,3 +2790,128 @@ created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 ---
 ---
 ---
+
+
+
+# 📘 Day 26
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![](Pasted%20image%2020260821082726.png)
+
+---
+
+# 📂 Assignments
+![](Pasted%20image%2020260821090622.png)
+![](Pasted%20image%2020260821090713.png)
+![](API%20Request%20Error%20Handling%20and%20Retry.json)
+
+---
+
+
+# 💻 Checklist
+![](Pasted%20image%2020260821082857.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title                             | Status                                         |
+| --------------------------------- | ---------------------------------------------- |
+| n8n Docs – Error handling         | https://docs.n8n.io/flow-logic/error-handling/ |
+| n8n Docs – Executions & debugging | https://docs.n8n.io/workflows/executions/      |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  21 Aug 2026 Fri
+- Today I learned: About failure modes, and error handling in n8n.
+- Today I built / practiced: Created API Request Error Handling and Retry Workflow.
+- Technologies / nodes used: Github, Obsidian, n8n, API.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/petalnex-internship.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                               |
+| ---------- | ------------------------------------------------------ |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup    |
+| 2026-07-23 | Created Daily Remainder.                               |
+| 2026-07-24 | Created student/employee records.                      |
+| 2026-07-25 | Created small routing workflow.                        |
+| 2026-07-27 | Created Internship Application Processing.             |
+| 2026-07-28 | Created Candidate Screening Automation.                |
+| 2026-07-29 | Used Weather API in Postman.                           |
+| 2026-07-30 | Created Weather Notification Automation.               |
+| 2026-07-31 | Transformed messy data in to clean data with js.       |
+| 2026-08-01 | Created Form Intake Workflow.                          |
+| 2026-08-03 | Created Lead Processing Automation.                    |
+| 2026-08-04 | Created Lead Management System.                        |
+| 2026-08-05 | Tested LLM apis via Postman.                           |
+| 2026-08-06 | Practiced Prompt Engineering.                          |
+| 2026-08-07 | Created AI Email Classifier.                           |
+| 2026-08-08 | Created Strict JSON Email Classification.              |
+| 2026-08-10 | Compared Gemini and Groq API.                          |
+| 2026-08-11 | Created AI Customer Support Triage System.             |
+| 2026-08-12 | Created RAG-Explained.pdf.                             |
+| 2026-08-13 | Created Document Ingestion Workflow.                   |
+| 2026-08-15 | Build a RAG Assistant.                                 |
+| 2026-08-17 | Created Simple AI Agent.                               |
+| 2026-08-18 | Created Multi Tool AI Agent.                           |
+| 2026-08-19 | Created Company Knowledge AI Assistant.                |
+| 2026-08-20 | Created CRUD with database workflow in n8n.            |
+| 2026-08-21 | Created API Request Error Handling and Retry Workflow. |
+
+
+---
+---
+---
+
