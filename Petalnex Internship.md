@@ -3304,3 +3304,232 @@ After Optimization: After implementing the deterministic routing logic, the syst
 ---
 
 
+
+# 📘 Day 30
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+
+---
+
+# 📂 Assignments
+
+![a1](AI-Assisted%20Recruitment%20Automation.json)
+![](Pasted%20image%2020260826092803.png)
+
+
+
+You are an AI recruitment assistant.
+
+Your job is to analyze a candidate against the defined job requirements.
+
+You are NOT the final decision maker.
+
+The final hiring decision must be made by an authorized human reviewer.
+
+Evaluate only job relevant information.
+
+Do not evaluate or infer:
+gender
+race
+religion
+age
+disability
+marital status
+political beliefs
+photographs
+other unrelated personal characteristics
+
+Do not invent qualifications or experience.
+
+JOB POSITION
+
+Junior Machine Learning Engineer
+
+REQUIRED SKILLS
+
+Python
+Machine Learning
+NumPy
+Pandas
+Scikit Learn
+
+PREFERRED SKILLS
+
+PyTorch
+TensorFlow
+FastAPI
+
+MINIMUM EXPERIENCE
+
+1 year
+
+EDUCATION
+
+Computer Science
+Artificial Intelligence
+Data Science
+Software Engineering
+or an equivalent relevant field
+
+CANDIDATE DATA
+
+Candidate Name:
+{{$json.candidate_name}}
+
+Email:
+{{$json.candidate_email}}
+
+Experience:
+{{$json.experience_years}}
+
+Education:
+{{$json.education}}
+
+Resume:
+{{$json.resume_text}}
+
+Cover Letter:
+{{$json.cover_letter}}
+
+Analyze the candidate.
+
+Extract relevant skills.
+
+Match the candidate against the job requirements.
+
+Generate a score from 0 to 100.
+
+Generate an AI recommendation.
+
+The recommendation must be exactly one of:
+
+shortlist
+reject
+review
+
+Explain the recommendation using only evidence from the candidate data.
+
+Remember:
+
+The recommendation is advisory only.
+
+An authorized human must make the final decision.
+
+![README(2) 1](README(2)%201.md)
+
+---
+
+
+# 💻 Checklist
+![](Pasted%20image%2020260826014715.png)
+
+---
+
+
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  26 Aug 2026 Wed
+- Today I learned: -
+- Today I built / practiced: Created AI-Assisted Recruitment Automation.
+- Technologies / nodes used: Github, Obsidian, n8n, Postman, Supabase, Google AI Studio, Gmail.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/AI-Assisted-Recruitment-Automation-in-n8n.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                               |
+| ---------- | ------------------------------------------------------ |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup    |
+| 2026-07-23 | Created Daily Remainder.                               |
+| 2026-07-24 | Created student/employee records.                      |
+| 2026-07-25 | Created small routing workflow.                        |
+| 2026-07-27 | Created Internship Application Processing.             |
+| 2026-07-28 | Created Candidate Screening Automation.                |
+| 2026-07-29 | Used Weather API in Postman.                           |
+| 2026-07-30 | Created Weather Notification Automation.               |
+| 2026-07-31 | Transformed messy data in to clean data with js.       |
+| 2026-08-01 | Created Form Intake Workflow.                          |
+| 2026-08-03 | Created Lead Processing Automation.                    |
+| 2026-08-04 | Created Lead Management System.                        |
+| 2026-08-05 | Tested LLM apis via Postman.                           |
+| 2026-08-06 | Practiced Prompt Engineering.                          |
+| 2026-08-07 | Created AI Email Classifier.                           |
+| 2026-08-08 | Created Strict JSON Email Classification.              |
+| 2026-08-10 | Compared Gemini and Groq API.                          |
+| 2026-08-11 | Created AI Customer Support Triage System.             |
+| 2026-08-12 | Created RAG-Explained.pdf.                             |
+| 2026-08-13 | Created Document Ingestion Workflow.                   |
+| 2026-08-15 | Build a RAG Assistant.                                 |
+| 2026-08-17 | Created Simple AI Agent.                               |
+| 2026-08-18 | Created Multi Tool AI Agent.                           |
+| 2026-08-19 | Created Company Knowledge AI Assistant.                |
+| 2026-08-20 | Created CRUD with database workflow in n8n.            |
+| 2026-08-21 | Created API Request Error Handling and Retry Workflow. |
+| 2026-08-22 | Created Security-Audit.pdf                             |
+| 2026-08-24 | Created AI Workflow with Human Approval.               |
+| 2026-08-25 | Created a optimized workflow.                          |
+| 2026-08-26 | Created AI-Assisted Recruitment Automation.            |
+
+
+---
+---
+---
+
+
+
