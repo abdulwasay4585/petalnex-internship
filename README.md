@@ -1,156 +1,87 @@
 # Petalnex Internship
 
-This repository tracks my internship progress at Petalnex with day-by-day learning, assignments, workflow implementations, and automation practice.
+This repository documents my internship at Petalnex: day-by-day learning notes, automation workflows (n8n concepts), supporting artifacts and evidence screenshots.
 
 ---
 
-## Internship Progress (Day 1 to Day 8)
+## Quick status
 
-- Start Date: 2026-07-22  
-- Current Coverage: Day 1 to Day 8  
-- Primary Focus: Workflow automation using n8n, JSON, Postman, and related tools
-
----
-
-## Repository Contents
-
-- `README.md` - Internship overview and daily progress summary
-- `Petalnex Internship.md` - Full detailed day-wise notes
-- Workflow files (`.json`) for automation exercises
-- Supporting files (`.png`, `.pdf`, `.xlsx`) for assignment evidence
+- Internship start: 2026-07-22
+- Coverage in this repo: Day 1 → Day 36 (detailed notes in `Petalnex Internship.md`)
+- Primary focus: workflow automation with n8n, JSON, Postman, Google Sheets and simple scripting
 
 ---
 
-## Day-wise Summary
+## Top-level inventory (what is actually in the repository)
 
-### Day 1 - 2026-07-22 (Wed)
-Topic: Onboarding, Automation Fundamentals, Account Setup  
-Learned: What automation is; traditional automation vs AI automation  
-Built/Practiced: Tool and account setup, GitHub repo initialization  
-Tools Used: GitHub, Obsidian, n8n  
-Status: Completed  
+```text
+README.md                           ← this file (overview)
+Petalnex Internship.md              ← full day-by-day notes (primary content)
+Component-and-Credentials-List.md    ← component / credential checklist
+Lead Processing Workflow.md         ← documentation for the lead workflow
+Diagram.png                         ← architecture/flow diagram image
+Presentation.pptx                    ← internship presentation slides
+Automation-Opportunities..pdf       ← opportunities list (PDF)
+Project-Requirement-Document.pdf    ← project requirements (PDF)
+Prompt_Library.pdf                  ← prompt examples (PDF)
+RAG-Explained.pdf                   ← RAG notes (PDF)
+Security-Audit.pdf                  ← security notes (PDF)
+Test-Cases.pdf                      ← test cases (PDF)
+classification_benchmark_report.pdf ← benchmark report (PDF)
+Many screenshots (Screenshot From 2026-07-22 ... 2026-08-29.png) ← evidence images
 
-Highlighted Assignment: Identified 5 manual business processes that can be automated:
-1. Accounts Payable Invoice Processing  
-2. Employee Onboarding and IT Provisioning  
-3. Employee Expense Report Auditing  
-4. Customer Support Ticket Triage and Routing  
-5. Vendor Contract Renewal Management  
-
----
-
-### Day 2 - 2026-07-23 (Thu)
-Topic: n8n Nodes, Triggers, Telegram Integration  
-Learned: Node basics, trigger mechanisms, Telegram API usage  
-Built/Practiced: Daily Internship Reminder workflow  
-Tools Used: GitHub, Obsidian, n8n, Telegram  
-Status: Completed  
-
-Workflow Concepts Used:
-- Schedule Trigger
-- Set Node
-- Telegram Node
+Note: several workflows are referenced inside the markdown (for example `Weather Notification Automation.json`, `Candidate Screening.json`, `Daily Automated Reminder.json`, and others). These .json workflow files are not present at the repository root — they are embedded as links/images inside `Petalnex Internship.md`. If you expect runnable workflow exports, add them to a `workflows/` directory.
+```
 
 ---
 
-### Day 3 - 2026-07-24 (Fri)
-Topic: JSON Fundamentals and Expressions  
-Learned: JSON structure and usage in workflow data handling  
-Built/Practiced: Student/Employee records classification workflow  
-Tools Used: GitHub, Obsidian, n8n, JSON  
-Status: Completed  
+## How this repo is organized
+
+- `Petalnex Internship.md` — the canonical day-by-day journal containing learning objectives, assignments, resources, and embedded artifacts/screenshots. Read this file to follow the internship progress.
+- Supporting docs (PDF/MD) — requirement docs, security audit, prompts and benchmark reports.
+- Media — many screenshots that show the workflows and results; these are evidence of work.
+
+How it fits together: the notebook-style `Petalnex Internship.md` references workflow exports (JSON), spreadsheets and screenshots. The repo currently serves as a record and evidence store rather than an executable project. To make workflows runnable, export n8n workflow JSON files into a dedicated `workflows/` folder and link them directly from the main notes.
 
 ---
 
-### Day 4 - 2026-07-25 (Sat)
-Topic: Flow Logic in n8n  
-Learned: IF/Else logic, loops, routing flow design  
-Built/Practiced: Small routing workflow  
-Tools Used: GitHub, Obsidian, n8n, JSON  
-Status: Completed  
+## Recommended next steps (I can do these for you)
+
+1. Create a `workflows/` directory and add the exported n8n `.json` files referenced in the notes (names found inside the markdown):
+   - `Daily Automated Reminder.json`
+   - `student emploee records clasification.json` (rename to `student-employee-records.json`)
+   - `Routing workflow.json` → `routing-workflow.json`
+   - `Internship Application Workflow.json` → `internship-application-workflow.json`
+   - `Candidate Screening.json` → `candidate-screening.json`
+   - `Weather Notification Automation.json` → `weather-notification.json`
+   - `Form Intake Workflow.json`
+   - `Lead Processing Workflow.json`
+   - `Lead Management System.json`
+
+   Standardizing file names and placing them under `workflows/` makes the repo reproducible and easier to inspect.
+
+2. Add a small `workflows/README.md` that explains how to import each JSON into n8n (Export → Import) and include expected credentials/credentials placeholders.
+
+3. Add a short `CONTRIBUTING.md` or `NEXT_STEPS.md` that lists measurable outcomes to collect (time saved, manual steps reduced, test cases) and how to run the tests or manual validation.
+
+4. (Optional) Add small architecture diagram files in `docs/` and a `LICENSE` file if you plan to share publicly.
+
+If you'd like, I can add the `workflows/` folder and prepare the `workflows/README.md` and standardized file names — tell me if you want me to create those files in this repo now.
 
 ---
 
-### Day 5 - 2026-07-27 (Mon)
-Topic: Google Sheets + Gmail Automation  
-Learned: Using Sheets and Email nodes in n8n  
-Built/Practiced: Internship Application Processing Workflow  
-Tools Used: GitHub, Obsidian, n8n, JSON, Google Sheets  
-Status: Completed  
+## How to view the work now
+
+- Open `Petalnex Internship.md` in GitHub to read the daily notes and to see embedded screenshots and references.
+- View the PDFs and `Lead Processing Workflow.md` for detailed assignment descriptions.
+- To reproduce a workflow manually: open the relevant day in `Petalnex Internship.md`, find the referenced JSON filename, and import that JSON into n8n (if you add the JSON files to `workflows/`).
 
 ---
 
-### Day 6 - 2026-07-28 (Tue)
-Topic: Candidate Data Automation  
-Learned: Candidate screening workflow structuring  
-Built/Practiced: Candidate Screening Automation  
-Tools Used: GitHub, Obsidian, n8n, JSON, Sheets  
-Status: Completed  
+## Contact / repository link
 
-Related Repo:  
-- https://github.com/abdulwasay4585/Candidate-Screening-Automation-in-n8n.git
+- Main repo: https://github.com/abdulwasay4585/petalnex-internship
 
 ---
 
-### Day 7 - 2026-07-29 (Wed)
-Topic: API Exploration Basics  
-Learned: HTTP requests, status codes, headers, API fundamentals  
-Built/Practiced: Weather API testing in Postman  
-Tools Used: GitHub, Obsidian, Postman, JSON  
-Status: Completed  
-
----
-
-### Day 8 - 2026-07-30 (Thu)
-Topic: HTTP Request Node in n8n  
-Learned: HTTP node usage and status-code handling  
-Built/Practiced: Weather Notification Automation  
-Tools Used: GitHub, Obsidian, Postman, JSON, n8n  
-Status: Completed  
-
-Implementation Note:  
-Open-Meteo Weather API was used as a public REST API (no authentication required).
-
----
-
-## Key Tools and Resources
-
-- [n8n](https://n8n.io/)
-- [n8n Academy](https://docs.n8n.io/courses/)
-- [n8n Learning Paths](https://docs.n8n.io/learning-paths/)
-- [n8n Docs - Trigger/Flow Logic/HTTP Request](https://docs.n8n.io/)
-- [MDN JSON Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
-- [MDN HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-- [MDN HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-- [Postman Learning Center](https://learning.postman.com/docs/getting-started/overview/)
-
----
-
-## Study Log Timeline
-
-| Date       | Activity                                            |
-|------------|-----------------------------------------------------|
-| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup |
-| 2026-07-23 | Created Daily Reminder workflow                     |
-| 2026-07-24 | Created student/employee records workflow           |
-| 2026-07-25 | Created small routing workflow                      |
-| 2026-07-27 | Internship Application Processing workflow          |
-| 2026-07-28 | Candidate Screening Automation                      |
-| 2026-07-29 | Used Weather API in Postman                         |
-| 2026-07-30 | Created Weather Notification Automation             |
-
----
-
-## Next Steps
-
-- Continue Day 9 onward with the same daily format
-- Add measurable outcomes (time saved, reduced manual effort)
-- Add architecture diagrams/screenshots for each workflow
-- Include test cases and edge-case handling notes
-- Keep `README.md` updated as a live internship dashboard
-
----
-
-## Repository Link
-
-- Main Repo: https://github.com/abdulwasay4585/petalnex-internship.git
+_Last updated: automated update by assistant — README improved with a repo inventory and next-step suggestions._
