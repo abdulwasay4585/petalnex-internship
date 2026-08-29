@@ -1353,32 +1353,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  08 Aug 2026 Sat
@@ -1392,16 +1366,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1429,9 +1393,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
-
-
 
 # 📘 Day 17
 
@@ -1468,32 +1429,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  10 Aug 2026 Mon
@@ -1507,16 +1442,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1639,42 +1564,6 @@ You are an AI Customer Support Triage Assistant.  Your task is to analyze incomi
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  11 Aug 2026 Tue
@@ -1688,16 +1577,6 @@ You are an AI Customer Support Triage Assistant.  Your task is to analyze incomi
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1729,7 +1608,6 @@ You are an AI Customer Support Triage Assistant.  Your task is to analyze incomi
 ---
 
 
-
 # 📘 Day 19
 
 ---
@@ -1737,7 +1615,7 @@ You are an AI Customer Support Triage Assistant.  Your task is to analyze incomi
 # 🎯 Learning Objectives
 
 By the end of this day I should be able to:
-![obj](Pasted%20image%2020260813130428.png)
+![](Pasted%20image%2020260813130428.png)
 
 ---
 
@@ -1749,7 +1627,7 @@ By the end of this day I should be able to:
 
 
 # 💻 Checklist
-![ch](Pasted%20image%2020260813130521.png)
+![](Pasted%20image%2020260813130521.png)
 
 ---
 
@@ -1761,32 +1639,6 @@ By the end of this day I should be able to:
 | ------------------------ | ----------------------------------------------------------------- |
 | n8n Docs – RAG in n8n    | https://docs.n8n.io/advanced-ai/rag-in-n8n/                       |
 | n8n Docs – Vector stores | https://docs.n8n.io/integrations/builtin/cluster-nodes/sub-nodes/ |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -1803,16 +1655,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -1843,8 +1685,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
-
 
 
 # 📘 Day 20
@@ -1888,32 +1728,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  13 Aug 2026 Thu
@@ -1927,16 +1741,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2006,44 +1810,6 @@ By the end of this day I should be able to:
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  15 Aug 2026 Sat
@@ -2057,16 +1823,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2099,7 +1855,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
 
 
 # 📘 Day 22
@@ -2145,32 +1900,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  17 Aug 2026 Mon
@@ -2184,16 +1913,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2227,7 +1946,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
 
 
 # 📘 Day 23
@@ -2272,32 +1990,6 @@ Delete Data Tool -> to delete the data from memory tool.
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  18 Aug 2026 Tue
@@ -2311,16 +2003,6 @@ Delete Data Tool -> to delete the data from memory tool.
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2355,7 +2037,6 @@ Delete Data Tool -> to delete the data from memory tool.
 ---
 ---
 ---
-
 
 
 # 📘 Day 24
@@ -2550,42 +2231,6 @@ return [
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  19 Aug 2026 Wed
@@ -2601,15 +2246,6 @@ return [
 
 ---
 
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
----
 
 # 📅 Study Log
 
@@ -2644,7 +2280,6 @@ return [
 ---
 ---
 ---
-
 
 
 # 📘 Day 25
@@ -2692,8 +2327,8 @@ created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 # 💻 Checklist
 
 ![](Pasted%20image%2020260820084611.png)
----
 
+---
 
 
 # 📚 Resources
@@ -2702,34 +2337,6 @@ created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 | ------------------------------- | --------------------------------------------------------------------------- |
 | n8n Docs – Postgres node        | https://docs.n8n.io/integrations/builtin/app-nodes/n8n-nodes-base.postgres/ |
 | Supabase Docs – Getting started | https://supabase.com/docs                                                   |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
 
 # 📋 Revision Checklist
 
@@ -2744,16 +2351,6 @@ created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2792,7 +2389,6 @@ created_at TIMESTAMP WITH TIME ZONE DEFAULT CURRENT_TIMESTAMP
 ---
 
 
-
 # 📘 Day 26
 
 ---
@@ -2828,32 +2424,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  21 Aug 2026 Fri
@@ -2867,16 +2437,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -2914,7 +2474,6 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
 
 
 
@@ -2957,32 +2516,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  22 Aug 2026 Sat
@@ -2996,16 +2529,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3083,32 +2606,6 @@ By the end of this day I should be able to:
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  24 Aug 2026 Mon
@@ -3122,16 +2619,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3213,32 +2700,6 @@ After Optimization: After implementing the deterministic routing logic, the syst
 
 ---
 
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  25 Aug 2026 Tue
@@ -3252,16 +2713,6 @@ After Optimization: After implementing the deterministic routing logic, the syst
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3429,43 +2880,6 @@ An authorized human must make the final decision.
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  26 Aug 2026 Wed
@@ -3479,16 +2893,6 @@ An authorized human must make the final decision.
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3556,43 +2960,6 @@ By the end of this day I should be able to:
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  27 Aug 2026 Thu
@@ -3606,16 +2973,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3660,7 +3017,6 @@ By the end of this day I should be able to:
 ---
 
 
-
 # 📘 Day 32
 
 ---
@@ -3687,42 +3043,6 @@ By the end of this day I should be able to:
 ---
 
 
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  28 Aug 2026 Fri
@@ -3736,16 +3056,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3791,7 +3101,6 @@ By the end of this day I should be able to:
 ---
 
 
-
 # 📘 Day 33
 
 ---
@@ -3815,42 +3124,6 @@ By the end of this day I should be able to:
 # 💻 Checklist
 
 ![](Pasted%20image%2020260829134655.png)
----
-
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -3867,16 +3140,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -3946,42 +3209,6 @@ By the end of this day I should be able to:
 # 💻 Checklist
 
 ![](Pasted%20image%2020260829140152.png)
----
-
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -3998,16 +3225,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -4054,7 +3271,6 @@ By the end of this day I should be able to:
 ---
 
 
-
 # 📘 Day 35
 
 ---
@@ -4082,43 +3298,6 @@ By the end of this day I should be able to:
 
 ---
 
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
-
----
-
 # 📋 Revision Checklist
 
 - Date:  29 Aug 2026 Sat
@@ -4132,16 +3311,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Tasks and ongoing learning
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -4196,6 +3365,7 @@ By the end of this day I should be able to:
 
 By the end of this day I should be able to:
 ![](Pasted%20image%2020260829142043.png)
+
 ---
 
 # 📂 Assignments
@@ -4209,42 +3379,6 @@ By the end of this day I should be able to:
 
 # 💻 Checklist
 ![](Pasted%20image%2020260829142058.png)
----
-
-
-
-# 📚 Resources
-
-| Title | Status |
-| ----- | ------ |
-|       |        |
-|       |        |
-
----
-
-# 🧠 Important Concepts
-
-
----
-
-# ❓ Frequently Asked Questions
-
-### Question 1
-
-
----
-
-# 📅 Timeline
-
-|Week|Topics|
-|---|---|
-|1||
-|2||
-|3||
-|4||
-|5||
-
-(Add more weeks as needed.)
 
 ---
 
@@ -4261,16 +3395,6 @@ By the end of this day I should be able to:
 - Plan for next day:  Completed.
     
 
----
-
-# 🔗 Related Notes
-
-- [[ ]]
-    
-- [[ ]]
-    
-- [[ ]]
-    
 ---
 
 # 📅 Study Log
@@ -4314,6 +3438,3 @@ By the end of this day I should be able to:
 ---
 ---
 ---
-
-
-
