@@ -4186,3 +4186,134 @@ By the end of this day I should be able to:
 ---
 ---
 
+
+
+# 📘 Day 36
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![](Pasted%20image%2020260829142043.png)
+---
+
+# 📂 Assignments
+
+![](Pasted%20image%2020260829134721.png)
+![a1](AI%20Recruitment%20Automation%20System.json)
+![presentation.pptx](Presentation.pptx)
+
+---
+
+
+# 💻 Checklist
+![](Pasted%20image%2020260829142058.png)
+---
+
+
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  29 Aug 2026 Sat
+- Today I learned: Structuring a clear technical presentation.
+- Today I built / practiced:  Created Project Presentation.
+- Technologies / nodes used: Github, Obsidian, Googel AI Studio, Supabase, Postman, PowerPoint.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/AI-Recruitment-Automation-System.git
+- Plan for next day:  Completed.
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                                                                                                                                                                                              |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Set                                                                                                                                                                     |
+| 2026-07-23 | Created Daily Remaind                                                                                                                                                                                                 |
+| 2026-07-24 | Created student/employee reco                                                                                                                                                                                         |
+| 2026-07-25 | Created small routing work                                                                                                                                                                                            |
+| 2026-07-27 | Created Internship Application Proce                                                                                                                                                                                  |
+| 2026-07-28 | Created Candidate Screening Auto                                                                                                                                                                                      |
+| 2026-07-29 | Used Weather API in                                                                                                                                                                                                   |
+| 2026-07-30 | Created Weather Notification Au                                                                                                                                                                                       |
+| 2026-07-31 | Transformed messy data in to clean dat                                   s.                                                                                                                                           |
+| 2026-08-01 | Created Form Intak                                                                                                                                                                                                    |
+| 2026-08-03 | Created Lead Processing                                                                                                                                                                                               |
+| 2026-08-04 | Created Lead Manag                                                                                                                                                                                                    |
+| 2026-08-05 | Tested LLM api                                                                                                                                                                                                        |
+| 2026-08-06 | Practiced Prom                                                                                                                                                                                                        |
+| 2026-08-07 | Created AI E                                                                                                                                                                                                          |
+| 2026-08-08 | Created Strict JSON Emai                                          n.                                                                                                                                                  |
+| 2026-08-10 | Compared Ge                                                                                                                                                                                                           |
+| 2026-08-11 | Created AI Customer Sup                                         stem.                                                                                                                                                 |
+| 2026-08-12 | Create                                                                                                                                                                                                                |
+| 2026-08-13 | Created Documen                                               .                                                                                                                                                       |
+| 2026-08-15 |                                                                                                                                                                                                                       |
+| 2026-08-17 | C                                                                                                                                                                                                                     |
+| 2026-08-18 | Crea                                                                                                                                                                                                                  |
+| 2026-08-19 | Created Compan                                            sistant.                                                                                                                                                    |
+| 2026-08-20 | Created CRUD with                                        kflow in n8n.                                                                                                                                                |
+| 2026-08-21 | Created API Request Error H                             dling and Retry Workflow.                                                                                                                                     |
+| 2026-08-22 |                                                                                                                                                                                                                       |
+| 2026-08-24 | Created AI                                            man Approval.                                                                                                                                                   |
+| 2026-08-25 | ow.                                                                                                                                                                                                                   |
+| 2026-08-26 | Created AI-A                                        itment Automation.                                                                                                                                                |
+| 2026-08-27 | Creat                                              ent Document.                                                                                                                                                      |
+| 2026-08-28 | Created Archite                                   agram and Compon Created Core of Project, Adding AI feature in workflow, Tested with 15 test cases. t, Adding AI feature in workflow, Created Project Presentation. |
+
+
+---
+---
+---
+
+
+
