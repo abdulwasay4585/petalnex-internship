@@ -3790,3 +3790,136 @@ By the end of this day I should be able to:
 ---
 ---
 
+
+
+# 📘 Day 33
+
+---
+
+# 🎯 Learning Objectives
+
+By the end of this day I should be able to:
+![](Pasted%20image%2020260829134636.png)
+
+---
+
+# 📂 Assignments
+
+![](Pasted%20image%2020260829134721.png)
+![a1](AI%20Recruitment%20Automation%20System.json)
+
+
+---
+
+
+# 💻 Checklist
+
+![](Pasted%20image%2020260829134655.png)
+---
+
+
+
+# 📚 Resources
+
+| Title | Status |
+| ----- | ------ |
+|       |        |
+|       |        |
+
+---
+
+# 🧠 Important Concepts
+
+
+---
+
+# ❓ Frequently Asked Questions
+
+### Question 1
+
+
+---
+
+# 📅 Timeline
+
+|Week|Topics|
+|---|---|
+|1||
+|2||
+|3||
+|4||
+|5||
+
+(Add more weeks as needed.)
+
+---
+
+# 📋 Revision Checklist
+
+- Date:  29 Aug 2026 Sat
+- Today I learned: Professional node naming, clean organization, safe credential use.
+- Today I built / practiced: Created Core of Project.
+- Technologies / nodes used: Github, Obsidian, Googel AI Studio, Supabase, Postman.
+- Problem(s) faced: -
+- How I solved them: -
+- Task status: Completed
+- GitHub / workflow link: https://github.com/abdulwasay4585/AI-Recruitment-Automation-System.git
+- Plan for next day:  Tasks and ongoing learning
+    
+
+---
+
+# 🔗 Related Notes
+
+- [[ ]]
+    
+- [[ ]]
+    
+- [[ ]]
+    
+---
+
+# 📅 Study Log
+
+| Date       | Activity                                               |
+| ---------- | ------------------------------------------------------ |
+| 2026-07-22 | Onboarding, Automation Fundamentals & Account Setup    |
+| 2026-07-23 | Created Daily Remainder.                               |
+| 2026-07-24 | Created student/employee records.                      |
+| 2026-07-25 | Created small routing workflow.                        |
+| 2026-07-27 | Created Internship Application Processing.             |
+| 2026-07-28 | Created Candidate Screening Automation.                |
+| 2026-07-29 | Used Weather API in Postman.                           |
+| 2026-07-30 | Created Weather Notification Automation.               |
+| 2026-07-31 | Transformed messy data in to clean data with js.       |
+| 2026-08-01 | Created Form Intake Workflow.                          |
+| 2026-08-03 | Created Lead Processing Automation.                    |
+| 2026-08-04 | Created Lead Management System.                        |
+| 2026-08-05 | Tested LLM apis via Postman.                           |
+| 2026-08-06 | Practiced Prompt Engineering.                          |
+| 2026-08-07 | Created AI Email Classifier.                           |
+| 2026-08-08 | Created Strict JSON Email Classification.              |
+| 2026-08-10 | Compared Gemini and Groq API.                          |
+| 2026-08-11 | Created AI Customer Support Triage System.             |
+| 2026-08-12 | Created RAG-Explained.pdf.                             |
+| 2026-08-13 | Created Document Ingestion Workflow.                   |
+| 2026-08-15 | Build a RAG Assistant.                                 |
+| 2026-08-17 | Created Simple AI Agent.                               |
+| 2026-08-18 | Created Multi Tool AI Agent.                           |
+| 2026-08-19 | Created Company Knowledge AI Assistant.                |
+| 2026-08-20 | Created CRUD with database workflow in n8n.            |
+| 2026-08-21 | Created API Request Error Handling and Retry Workflow. |
+| 2026-08-22 | Created Security-Audit.pdf                             |
+| 2026-08-24 | Created AI Workflow with Human Approval.               |
+| 2026-08-25 | Created a optimized workflow.                          |
+| 2026-08-26 | Created AI-Assisted Recruitment Automation.            |
+| 2026-08-27 | Created Project Requirement Document.                  |
+| 2026-08-28 | Created Architecture Diagram and Component list.       |
+| 2026-08-29 | Created Core of Project.                               |
+
+
+---
+---
+---
+
+
